@@ -1,0 +1,6 @@
+[submodule "sticky-configuration"]
+	path = sticky-configuration
+	url = git@github.com:StickySource/sticky-configuration.git
+[submodule "sticky-configuration-api"]
+	path = sticky-configuration-api
+	url = git@github.com:StickySource/sticky-configuration-api.git
